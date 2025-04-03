@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">pocket-ledger-buddy</string>
+    <string name="title_activity_main">pocket-ledger-buddy</string>
+    <string name="package_name">app.lovable.fc011c136bcb4af3a250673b4c01b07d</string>
+    <string name="custom_url_scheme">app.lovable.fc011c136bcb4af3a250673b4c01b07d</string>
+</resources>
